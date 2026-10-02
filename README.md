@@ -1,6 +1,5 @@
-# Closer – Privacy Policy & Terms
+# Closer: moved
 
-Public legal pages for the Closer app (Petalform LLC), served with GitHub Pages.
-
-- Privacy Policy: `privacy.html`
-- Terms of Service: `terms.html`
+Closer's privacy policy, terms and support pages now live at **https://petalformllc.com/apps/closer/**.
+Every page of this GitHub Pages site redirects to its new address, so old links keep working.
+Edit the documents in the `petalformllc-site` repo (`content/legal/closer/`), not here.
